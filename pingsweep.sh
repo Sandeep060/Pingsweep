@@ -1,7 +1,4 @@
 #!/bin/bash
-
-echo "This tool allows users to pingsweep  IP Addresses in their network"
-
 if [ "$1" == "" ]
 	then
 	echo "You forgot an IP address!"
