@@ -4,8 +4,6 @@ This is an IP lookup (also known as an ICMP sweep). A basic network scanning tec
 
 
 
-##Install
-
 #### For Debian-based GNU/Linux distributions
 
 To use the application, type in the following commands in GNU/Linux terminal.
